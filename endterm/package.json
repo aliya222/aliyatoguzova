@@ -1,0 +1,11 @@
+{
+  "name": "my-endterm-project",
+  "version": "1.0.0",
+  "description": "This is my endterm project, where I will show my knowledge and what i learned fron JavaScript. Hope you like it!(cause I really tried hard).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aliya Toguzova",
+  "license": "ISC"
+}
